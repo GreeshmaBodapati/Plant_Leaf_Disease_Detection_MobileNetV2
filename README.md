@@ -1,0 +1,1 @@
+# Plant_Leaf_Disease_Detection_MobileNetV2
